@@ -72,7 +72,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 25px;
   font-weight: 700;
   background:#fff;
 }
@@ -237,7 +237,7 @@ hr {
   border-left: 0px;
   border-right: 0px;
   height: 1px;
-  margin-bottom: 5px;
+  margin-bottom: 3px;
   border-style: solid;
 }
 

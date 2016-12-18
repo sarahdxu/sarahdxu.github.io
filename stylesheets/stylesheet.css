@@ -51,7 +51,7 @@ Theme Styles
 *******************************************************************************/
 
 body {
-  background-image: url('../images/_DSC4943.png');
+  background: url('../images/_DSC4943.png');
   box-sizing: border-box;
   color:#373737;
   font-size: 35px;

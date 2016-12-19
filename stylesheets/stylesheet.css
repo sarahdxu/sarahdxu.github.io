@@ -56,7 +56,7 @@ body {
   box-sizing: border-box;
   color:#373737;
   font-size: 35px;
-  font-family: 'Apple Chancery', Calibri, Helvetica, Arial, sans-serif;
+  font-family: 'Arial Black','Apple Chancery', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }

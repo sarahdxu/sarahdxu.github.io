@@ -147,7 +147,7 @@ img {
   margin: 0 auto;
   max-width: 739px;
   padding: 10px;
-  
+  opacity: 0.5;
 }
 
 p img {

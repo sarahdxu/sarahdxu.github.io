@@ -260,6 +260,22 @@ form {
 Full-Width Styles
 *******************************************************************************/
 
+/* Panels */
+
+	#main {
+		position: relative;
+		overflow: hidden;
+	}
+
+	.panel {
+		position: relative;
+	}
+/* Panels */
+
+			#main {
+				width: 45em;
+			}
+
 .outer {
   width: 100%;
 }

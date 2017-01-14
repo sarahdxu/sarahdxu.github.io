@@ -465,8 +465,8 @@ Small Device Styles
 				min-height: 100%;
 				overflow-y: scroll;
 				background-attachment: fixed;
-				font-size: 14pt;
-				line-height: 1.75em;
+				font-size: 30px;
+				line-height: 1.5;
 			}
 
 			input, textarea, select {
@@ -475,8 +475,8 @@ Small Device Styles
 			}
 
 			h1 {
-				font-size: 2.4em;
-				letter-spacing: -0.015em;
+				font-size: 75px;
+				letter-spacing: 5px;
 			}
 
 			h2 {

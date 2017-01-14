@@ -492,7 +492,7 @@ Small Device Styles
 		/* Panels */
 
 			#main {
-				width: 45em;
+				width: 70em;
 			}
 
 			.panel {
@@ -500,6 +500,6 @@ Small Device Styles
 				position: absolute;
 				top: 0;
 				left: 0;
-				width: 45em;
+				width: 70em;
 			}
 }

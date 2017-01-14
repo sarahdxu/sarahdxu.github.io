@@ -275,6 +275,10 @@ Full-Width Styles
 			#main {
 				width: 45em;
 			}
+.panel {
+		position: relative;
+
+	}
 
 .outer {
   width: 100%;

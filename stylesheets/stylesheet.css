@@ -52,7 +52,8 @@ Theme Styles
 *******************************************************************************/
 body {
   background-image: url(../images/sarahdxucopy.jpg);
-  background-size:cover;
+	background-repeat: repeat, no-repeat;
+		background-size: auto, 100% 100%;
   box-sizing: border-box;
   color:#373737;
   font-size: 30px;

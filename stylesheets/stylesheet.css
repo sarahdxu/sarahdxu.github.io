@@ -51,7 +51,8 @@ table {
 Theme Styles
 *******************************************************************************/
 body {
-
+	padding: 0;
+	margin: 0;
   background-image: url(../images/sarahdxucopy.jpg);
 	
 		background-size: cover;
@@ -66,7 +67,10 @@ body {
 
 
 
-
+div {
+	width: 100%;
+	height: 100%;
+}
 
 
 h1, h2, h3, h4, h5, h6 {

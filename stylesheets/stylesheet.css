@@ -469,10 +469,6 @@ Small Device Styles
 				line-height: 1.5;
 			}
 
-			input, textarea, select {
-				font-size: 14pt;
-				line-height: 1.75em;
-			}
 
 			h1 {
 				font-size: 75px;
@@ -502,4 +498,45 @@ Small Device Styles
 				left: 0;
 				width: 70em;
 			}
+}
+
+/* Mobile */
+
+	@media screen and (max-width: 736px) {
+
+		/* Basic */
+
+			body, input, textarea, select {
+				font-size: 11pt;
+				line-height: 1.5em;
+			}
+
+			h1, h2 {
+				font-size: 20px;
+				letter-spacing: -0.025em;
+			}
+
+			h3, h4, h5, h6 {
+				font-size: 1.25em;
+				letter-spacing: -0.025em;
+			}
+
+	
+		/* Panels */
+
+			#main {
+				background: none;
+			}
+
+			.panel {
+				padding: 15px 15px 15px 15px;
+				margin: 0 0 7px 0;
+				background: #ffffff;
+				box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.25);
+			}
+
+				.panel header {
+					padding-top: 1em;
+				}
+
 }

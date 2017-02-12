@@ -63,7 +63,7 @@ body {
   box-sizing: border-box;
   color:#373737;
   font-size: 30px;
-  font-family: 'Georgia', 'Arial', 'Arial Black','Apple Chancery', Calibri, Helvetica, Arial, sans-serif;
+  font-family: proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 300;
   color:#900C3F;
-  font-family: 'Georgia','Cambria', 'Arial Black', 'Papyrus', 'Geneva', 'Calibri', Helvetica, Arial, sans-serif;
+  font-family: proxima-nova,"Helvetica Neue",Helvetica,Arial,sans-serif;
   letter-spacing: 5px;
 }
 

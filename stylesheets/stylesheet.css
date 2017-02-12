@@ -53,7 +53,11 @@ Theme Styles
 body {
 	padding: 0;
 	margin: 0;
-  background-image: url(../images/sarahdxucopy.jpg);
+  background: url(../images/sarahdxucopy.jpg)no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 	
 		background-size: cover;
 	background-repeat: no-repeat;
